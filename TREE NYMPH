@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>A Kind Tree Nymph</title>
+    <style>
+        /* Add your CSS animations here */
+    </style>
+</head>
+<body>
+
+<!-- Cover Page -->
+<section id="cover-page">
+    <h1>A Kind Tree Nymph</h1>
+    <!-- Add illustrations here -->
+</section>
+
+<!-- Page 1: Introduction to Dawn -->
+<section id="introduction-to-dawn">
+    <!-- Add your scene here -->
+</section>
+
+<!-- Page 2: Bell's Mission -->
+<section id="bells-mission">
+    <!-- Add your scene here -->
+</section>
+
+<!-- Page 3: Arrival at the Desert -->
+<section id="arrival-at-the-desert">
+    <!-- Add your scene here -->
+</section>
+
+<!-- Page 4: Creating the Oasis -->
+<section id="creating-the-oasis">
+    <!-- Add your scene here -->
+</section>
+
+<!-- Page 5: Spectre's Attack -->
+<section id="spectres-attack">
+    <!-- Add your scene here -->
+</section>
+
+<!-- Page 6: Battle with Spectre -->
+<section id="battle-with-spectre">
+    <!-- Add your scene here -->
+</section>
+
+<!-- Page 7: Bell's Sacrifice -->
+<section id="bells-sacrifice">
+    <!-- Add your scene here -->
+</section>
+
+<!-- Page 8: Burial and Tribute -->
+<section id="burial-and-tribute">
+    <!-- Add your scene here -->
+</section>
+
+<!-- Page 9: Bell's Legacy -->
+<section id="bells-legacy">
+    <!-- Add your scene here -->
+</section>
+
+<!-- Page 10: Bell's Continuing Journey -->
+<section id="bells-continuing-journey">
+    <!-- Add your scene here -->
+</section>
+
+</body>
+</html>
